@@ -16,11 +16,12 @@ public class GitAux {
     }
     
     public void metodoAlumno2(){
-        
+        System.out.println("Modificación de alumno 2");
     }
     
     public void metodoComunitario(){
         System.out.println("Aqui escribimos todos");
+		System.out.println("Modificado por alumno 2");
     }
 
 	public void testGitAux(){
